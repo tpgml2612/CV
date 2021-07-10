@@ -10,11 +10,17 @@ I get along well with people participating in the car-making club, coffee club, 
 
 I want to experience a more expansive world since I was born in Korea and grew up only here except for travel.
 
+My Research Interests are listed below:
+* Combination of mechanics, statistical calibration, and optimization
+* Mechanical metamaterials
+* Additive manufacturing
+
 <br/>
 
 # Education
 * Seoul National University 2018/03 ~ 2022/02 (expected)
   * Bachelor of Science in Mechanical Engineering, Minor in Statistics
+  * Thesis: An Empirical Study on Hyper-parameter of Model Discrepancy in Bayesian Calibration: Boundary and Prior Distribution
     * Overall GPA: 4.21/4.30 (139 credits)
     * Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
 * Daejeon Science High School for the Gifted
@@ -24,15 +30,19 @@ I want to experience a more expansive world since I was born in Korea and grew u
 
 <br/>
 
-# Research Interests
-* Combination of mechanics, statistical calibration, and optimization
-* Mechanical metamaterials
-* Additive manufacturing
+# Research Experience & Other Projects
+Read here: https://tpgml2612.github.io/CV/portfolio/
 
 <br/>
 
-# Research Experiences & Other Projects
-Read here: https://tpgml2612.github.io/CV/portfolio/
+# Honors & Awards
+* Presidential Science Scholarship (2018/05 ~ )
+* Simon Marais Mathematics Competition 2018 – 7th place (Pairs, with J.park, SNU) (2018/12)
+* The Best Materials and Manufacturing Processes Award (2019/12)
+  * 1st place in term project in ‘Materials and Manufacturing Processes’ course
+  * Controlled wave stopband of metamaterial plate using shape memory alloy
+* Certificate – The Best Tutor of Engineering Mathematics 1 (2020/04)
+* Certificate – The Best Tutor of Basic Calculus 1 (Engineering Mathematics 1) (2020/10)
 
 <br/>
 
@@ -55,3 +65,17 @@ Read here: https://tpgml2612.github.io/CV/portfolio/
     * Engineering Mathematics 1 (2020-1, 2021-1)
   * Peer Tutoring for Specific Subject (2019/09 ~ 2019/12)
     * Engineering Mathematics 1 (2019-2)
+
+<br/>
+
+# Leadership Experience
+* Freshman Class Vice President (2018/03 ~ 2018/08)
+* Vice President of Car-making Club 'Run To You' (2019/09 ~ 2020/02)
+
+<br/>
+
+# Outreach
+* Hanwoori Community Child Center (2018/07 ~ 2018/12)
+  * Tutored and took care of children (age 6 to 14) in need of care
+* Pucheon Braille Library & Siloam Center for the Blind (Over 100 hours)
+  * Transcribed paper books into e-books for production of Braille books
