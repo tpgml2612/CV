@@ -31,7 +31,7 @@ My Research Interests are listed below:
 <br/>
 
 # Research Experience & Other Projects
-Read here: https://tpgml2612.github.io/CV/portfolio/
+Read here: <a href="https://tpgml2612.github.io/CV/portfolio">Research & Project</a> 
 
 <br/>
 
