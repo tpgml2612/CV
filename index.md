@@ -3,24 +3,25 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am a senior undergraduate majoring in mechanical engineering at Seoul National University, Korea. I'm also studying statistics as a minor. I get along well with people participating in the car-making club, coffee club, and photo club, but I also enjoy my time alone, meditating with coffee, or playing games. I'm also continuing yoga to keep healthy. Since I was born in Korea and grew up only here except for travel, I want to experience a more expansive world.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* Seoul National University 2018/03 ~ 2022/02 (expected)
+  * Bachelor of Science in Mechanical Engineering, Minor in Statistics
+    * Overall GPA: 4.21/4.30 (139 credits)
+    * Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
+* Daejeon Science High School For The Gifted
+  * Thesis: (Will be updated)
+    * Overall GPA: 4.226/4.30
+    * Award certificate for exemplary graduate from the superintendent of education
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Research Interests
+• Combination of mechanics, statistical calibration, and optimization
+• Mechanical metamaterials
+• Additive manufacturing
+
+<br/>

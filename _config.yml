@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Sehui Jeong
-  desc: Hello, this is my CV
+  desc: Welcome to my CV
   email: tpgml2612@snu.ac.kr
   selfie: assets/img/profile.jpg
 
