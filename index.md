@@ -3,7 +3,12 @@ layout: about
 ---
 
 # About Me
-I am a senior undergraduate majoring in mechanical engineering at Seoul National University, Korea. I'm also studying statistics as a minor. I get along well with people participating in the car-making club, coffee club, and photo club, but I also enjoy my time alone, meditating with coffee, or playing games. I'm also continuing yoga to keep healthy. Since I was born in Korea and grew up only here except for travel, I want to experience a more expansive world.
+I am a senior undergraduate majoring in mechanical engineering at Seoul National University, Korea.
+I'm also studying statistics as a minor.
+
+I get along well with people participating in the car-making club, coffee club, and photo club, but I also enjoy my time alone, meditating with coffee, or playing games. I'm also continuing yoga to keep healthy.
+
+I want to experience a more expansive world since I was born in Korea and grew up only here except for travel.
 
 <br/>
 
@@ -20,8 +25,8 @@ I am a senior undergraduate majoring in mechanical engineering at Seoul National
 <br/>
 
 # Research Interests
-• Combination of mechanics, statistical calibration, and optimization
-• Mechanical metamaterials
-• Additive manufacturing
+* Combination of mechanics, statistical calibration, and optimization
+* Mechanical metamaterials
+* Additive manufacturing
 
 <br/>
