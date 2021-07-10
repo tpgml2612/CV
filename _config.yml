@@ -1,62 +1,79 @@
-# Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
-google_analytics: # Tracking ID, e.g. "UA-000000-01"
+# ----
+# Site
 
-# Author
+title: Sehui Jeong
+url: "https://tpgml2612.github.io"
+baseurl:
+google_analytics_key:
+show_full_navigation: true
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Sehui Jeong's Currriculum Vitae
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
-
-# social
+  name: Sehui Jeong
+  email: tpgml2612@snu.ac.kr
+  twitter: 
 social:
-  email: true
-  behance:
-  bitbucket:
-  dribbble:
-  facebook: Test
-  flickr:
-  github: kssim
-  google_plus:
-  instagram:
-  keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:
-  steam:
-  tumblr:
-  gitlab:
-  twitter: Test
-  vimeo:
-  wordpress:
-  youtube:
-  default_txt: "Follow On"
+  name: github
+  links:
+    - https://github.com/tpgml2612/CV
 
-# Build settings
-markdown: kramdown
+# -----
+# Build
 
-# Assets
-sass:
-  sass_dir: _sass
-  style: compressed
+timezone: Etc/UTC
 
-# Gems
+permalink: pretty
+
 plugins:
-  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
-# Permalinks
-permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
-paginate: 5
 exclude:
-  - "Gemfile"
-  - "Gemfile.lock"
-  - "*.gem"
-  - "LICENSE"
-  - "READE.md"
-  - "screenshot.png"
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+collections:
+  docs:
+    title: Documentation
+    permalink: /:path/
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: "docs"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+      _options:
+        content:
+          width: 800
+          height: 2000
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      _comments:
+        type: Marks the impact of this release
+
+# -----------
+# CloudCannon
+
+types:
+  - minor
+  - major
