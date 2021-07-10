@@ -3,14 +3,14 @@ layout: about
 ---
 
 # About Me
-I am a senior undergraduate majoring in mechanical engineering at Seoul National University, Korea.
-I'm also studying statistics as a minor.
+I am a senior undergraduate majoring in <strong>mechanical engineering</strong> at Seoul National University, Korea.
+I'm also studying <strong>statistics</strong> as a minor.
 
 I get along well with people participating in the car-making club, coffee club, and photo club, but I also enjoy my time alone, meditating with coffee, or playing games. I'm also continuing yoga to keep healthy.
 
 I want to experience a more expansive world since I was born in Korea and grew up only here except for travel.
 
-My Research Interests are listed below:
+<strong><u>My Research Interests</u></strong> are listed below:
 * Combination of mechanics, statistical calibration, and optimization
 * Mechanical metamaterials
 * Additive manufacturing
@@ -36,7 +36,7 @@ Read here: <a href="https://tpgml2612.github.io/CV/portfolio">Research & Project
 <br/>
 
 # Honors & Awards
-* Presidential Science Scholarship (2018/05 ~ )
+* <strong>Presidential Science Scholarship</strong> (2018/05 ~ )
 * Simon Marais Mathematics Competition 2018 – 7th place (Pairs, with J.park, SNU) (2018/12)
 * The Best Materials and Manufacturing Processes Award (2019/12)
   * 1st place in term project in ‘Materials and Manufacturing Processes’ course
