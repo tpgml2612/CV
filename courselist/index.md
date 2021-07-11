@@ -4,8 +4,8 @@ title: "Course List"
 permalink: /courselist/
 ---
 
-* Overall GPA: 4.21/4.30 (139 credits)
-* Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
+## Overall GPA: 4.21/4.30 (139 credits)
+## Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
 
 # Course List
 
