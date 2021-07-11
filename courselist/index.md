@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: course
 title: "Course List"
 permalink: /courselist/
 ---
