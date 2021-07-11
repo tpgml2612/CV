@@ -4,13 +4,18 @@ title: "Course List"
 permalink: /courselist/
 ---
 
-# Course List
 * Overall GPA: 4.21/4.30 (139 credits)
 * Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
 
-LE : Liberal education course     GE : General elective
+# Course List
 
-RM : Required course for major     EM : Elective course for major
+LE : Liberal education course
+
+GE : General elective
+
+RM : Required course for major
+
+EM : Elective course for major
 
 Mi : Minor
 
