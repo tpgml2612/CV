@@ -12,8 +12,8 @@ I want to experience a more expansive world since I was born in Korea and grew u
 
 <strong><u>My Research Interests</u></strong> are listed below:
 * Combination of mechanics, statistical calibration, and optimization
-* Mechanical metamaterials
-* Additive manufacturing
+* Design of mechanical metamaterials
+* Additive manufacturing (especially PμSL: Projection micro-stereolithography)
 
 <br/>
 
