@@ -23,6 +23,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
   * Thesis: An Empirical Study on Hyper-parameter of Model Discrepancy in Bayesian Calibration: Boundary and Prior Distribution
     * Overall GPA: 4.21/4.30 (139 credits)
     * Major(Mech. Eng.) GPA: 4.30/4.30 (60 credits)
+    * <a href="https://tpgml2612.github.io/CV/courselist">Course List</a> 
 * Daejeon Science High School for the Gifted
   * Thesis: (Will be updated)
     * Overall GPA: 4.226/4.30
