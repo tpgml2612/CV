@@ -1,5 +1,5 @@
 ---
 layout: about
 title: "Course List"
-permalinnk: /courselist/
+permalink: /courselist/
 ---
