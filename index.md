@@ -25,7 +25,6 @@ I want to experience a more expansive world since I was born in Korea and grew u
 * Daejeon Science High School for the Gifted
   * Award certificate for an exemplary graduate from the superintendent of education
   * Thesis: (Will be updated)
-  * Overall GPA: 4.226/4.30
 
 <br/>
 
