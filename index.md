@@ -23,7 +23,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
   * Thesis: An Empirical Study on Hyper-parameter of Model Discrepancy in Bayesian Calibration: Boundary and Prior Distribution
   * <a href="https://tpgml2612.github.io/CV/courselist">Course List</a> 
 * Daejeon Science High School for the Gifted
-  * Award certificate for an exemplary graduate from the superintendent of education
+  * Rewarded certificate for an exemplary graduate from the superintendent of education
   * Thesis: (Will be updated)
 
 <br/>
