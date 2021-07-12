@@ -30,7 +30,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
 <br/>
 
 # Research Experience & Other Projects
-## Read here: <a href="https://tpgml2612.github.io/CV/portfolio">Research & Project</a> 
+### Read here: <a href="https://tpgml2612.github.io/CV/portfolio">Research & Project</a> 
 
 <br/>
 
@@ -46,16 +46,18 @@ I want to experience a more expansive world since I was born in Korea and grew u
 <br/>
 
 # Teaching Experience
-## Department of Mechanical Engineering – Seoul National University
+### Department of Mechanical Engineering – Seoul National University
   * Undergraduate Course Assistant (2021/03 ~ 2021/06)
     * Managed forum boards for Thermodynamics class
-## College of Engineering – Seoul National University
+
+### College of Engineering – Seoul National University
   * Offered 1:1 or 1:2 tutoring service, over 2 hours a week
   * Tutor (27th) (2020/03 ~ 2020/08)
     * Solid Mechanics, Thermodynamics
   * Tutor (28th) (2020/09 ~ 2021/02)
     * Fluid Mechanics, Dynamics
-## Faculty of Liberal Education – Seoul National University
+
+### Faculty of Liberal Education – Seoul National University
   * Offered 1:3 to 1:6 supplementary class 2 hours a week
   * Liberal Peer Tutoring for Science (2019/03 ~ 2021/06)
     * Foundation of Physics (2019-1, w/ international students)
