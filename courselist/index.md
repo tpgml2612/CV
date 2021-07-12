@@ -90,4 +90,4 @@ Mi : Minor
 * <strong>[EM] Management in Mechanical Engineering 1</strong>
 * <strong>[EM] Advanced Mechanical Engineering Analysis</strong>
 
-# <a href="https://tpgml2612.github.io/CV/">Back to Home</a> 
+# <a href="https://tpgml2612.github.io/CV/#list">Back to Home</a> 
