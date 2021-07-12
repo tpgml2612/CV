@@ -21,7 +21,6 @@ I want to experience a more expansive world since I was born in Korea and grew u
 ## Seoul National University 2018/03 ~ 2022/02 (expected)
   * Bachelor of Science in Mechanical Engineering, Minor in Statistics
   * Thesis: An Empirical Study on Hyper-parameter of Model Discrepancy in Bayesian Calibration: Boundary and Prior Distribution
-<ul id="list">
   * <a href="https://tpgml2612.github.io/CV/courselist">Course List</a>
 
 ## Daejeon Science High School for the Gifted 2015/03 ~ 2018/02
