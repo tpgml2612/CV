@@ -6,7 +6,7 @@ layout: about
 I am a senior undergraduate majoring in <strong>mechanical engineering</strong> at Seoul National University, Korea.
 I'm also studying <strong>statistics</strong> as a minor.
 
-I get along well with people participating in the car-making club, coffee club, and photo club, but I also enjoy my time alone, meditating with coffee, or playing games. I'm also continuing yoga to keep healthy.
+I tend to get along with people around me. I participated in the car-making club for two years, a coffee club for two years, and a photo club for a semester. However, I also enjoy my time alone, meditating with coffee or playing games. I'm also continuing yoga to keep healthy.
 
 I want to experience a more expansive world since I was born in Korea and grew up only here except for travel.
 
