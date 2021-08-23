@@ -8,7 +8,7 @@ I'm also studying <strong>statistics</strong> as a minor.
 
 I tend to get along with people around me. I participated in the car-making club for two years, a coffee club for two years, and a photo club for a semester. However, I also enjoy my time alone, meditating with coffee or playing games. I'm also continuing yoga to keep healthy.
 
-I want to experience a more expansive world since I was born in Korea and grew up only here except for travel.
+I want to experience a more expansive world since I was born in Korea and grew up only here except traveling.
 
 <strong><u>My Research Interests</u></strong> are listed below:
 * Mechanics, statistical calibration, and optimization
