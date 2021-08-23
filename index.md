@@ -24,7 +24,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
   * <a href="https://tpgml2612.github.io/CV/courselist" target="_blank">Course List</a>
 
 ## Daejeon Science High School for the Gifted 2015/03 ~ 2018/02
-  * Rewarded certificate for an exemplary graduate from the superintendent of education
+  * Awarded certificate for an exemplary graduate from the superintendent of education
   * Thesis: (Will be updated)
 
 <br/>
