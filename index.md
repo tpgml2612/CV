@@ -25,7 +25,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
 
 ## Daejeon Science High School for the Gifted 2015/03 ~ 2018/02
   * Awarded certificate for an exemplary graduate from the superintendent of education
-  * Thesis: (Will be updated)
+  * Thesis: A Bayesian approach to inverse problems for model calibration
 
 <br/>
 
