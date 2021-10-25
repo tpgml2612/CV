@@ -11,9 +11,9 @@ I tend to get along with people around me. I participated in the car-making club
 I want to experience a more expansive world since I was born in Korea and grew up only here except traveling.
 
 <strong><u>My Research Interests</u></strong> are listed below:
-* Mechanics, statistical calibration, and optimization
-* Improving additive manufacturing via physics-based modeling
+* Improving additive manufacturing via simulation based on mechanics
 * Design of architected materials with tunable physical properties (i.e. mechanical metamaterials)
+* Mechanics, statistical calibration, and optimization
 
 <br/>
 
