@@ -18,7 +18,7 @@ I want to experience a more expansive world since I was born in Korea and grew u
 <br/>
 
 # Education
-## Seoul National University 2018/03 ~ 2022/02 (expected)
+## Seoul National University 2018/03 ~ 2022/02
   * Bachelor of Science in Mechanical Engineering, Minor in Statistics
   * Thesis: An Empirical Study on Hyper-parameter of Model Discrepancy in Bayesian Calibration: Boundary and Prior Distribution
   * <a href="https://tpgml2612.github.io/CV/courselist" target="_blank">Course List</a>
@@ -36,12 +36,13 @@ I want to experience a more expansive world since I was born in Korea and grew u
 
 # Honors & Awards
 * <strong>Presidential Science Scholarship</strong> (2018/05 ~ )
-* Simon Marais Mathematics Competition 2018 – 7th place (Pairs, with J.park, SNU) (2018/12)
+* WINNS(Women In eNgineering Network SNU) Fellowship (2021/11)
+* Certificate – The Best Tutor of Basic Calculus 1 (Engineering Mathematics 1) (2020/10)
+* Certificate – The Best Tutor of Engineering Mathematics 1 (2020/04)
 * The Best Materials and Manufacturing Processes Award (2019/12)
   * 1st place in term project in ‘Materials and Manufacturing Processes’ course
   * Controlled wave stopband of metamaterial plate using shape memory alloy
-* Certificate – The Best Tutor of Engineering Mathematics 1 (2020/04)
-* Certificate – The Best Tutor of Basic Calculus 1 (Engineering Mathematics 1) (2020/10)
+* Simon Marais Mathematics Competition 2018 – 7th place (Pairs, with J.park, SNU) (2018/12)
 
 <br/>
 
@@ -52,10 +53,11 @@ I want to experience a more expansive world since I was born in Korea and grew u
 
 ### College of Engineering – Seoul National University
   * Offered 1:1 or 1:2 tutoring service, over 2 hours a week
-  * Tutor (27th) (2020/03 ~ 2020/08)
-    * Solid Mechanics, Thermodynamics
   * Tutor (28th) (2020/09 ~ 2021/02)
     * Fluid Mechanics, Dynamics
+  * Tutor (27th) (2020/03 ~ 2020/08)
+    * Solid Mechanics, Thermodynamics
+
 
 ### Faculty of Liberal Education – Seoul National University
   * Offered 1:3 to 1:6 supplementary class 2 hours a week
@@ -70,8 +72,8 @@ I want to experience a more expansive world since I was born in Korea and grew u
 <br/>
 
 # Leadership Experience
-* Freshman Class Vice President (2018/03 ~ 2018/08)
 * Vice President of Car-making Club 'Run To You' (2019/09 ~ 2020/02)
+* Freshman Class Vice President (2018/03 ~ 2018/08)
 
 <br/>
 
