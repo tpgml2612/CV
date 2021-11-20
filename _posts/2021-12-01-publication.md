@@ -3,7 +3,7 @@ layout: post
 title:  "Publication: User-independent Statistical Modeling of a Hyperparameter in Bayesian Calibration"
 info: "My first-author paper is under preparation"
 tech: "MATLAB, Bayesian Calibration"
-type: AML
+type: SHRM
 ---
 
 ## Explanation
